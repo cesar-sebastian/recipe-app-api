@@ -1,4 +1,4 @@
-# recipe-app-api
+# Recipe API
 
 API Recipe Django
 
